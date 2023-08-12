@@ -12,6 +12,14 @@
 - 🌱 I’m currently learning Data Analytics, Python
 - 📫 Reach me by [Telegram](https://t.me/alinaiunusova), [email](mailto:alinaiunusova@yandex.ru)
 
+### Languages and tools
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" title="postgresql" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="python" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" title="pandas" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" title="jupyter" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="vscode" width="40" height="40"/>&nbsp;
+
+
 
 <!--
 **AlinaVashchenko/alinavashchenko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
